@@ -1,4 +1,7 @@
-Results
+# Results.txt
+# Joshua Schoonmaker
+# CIS 125 IWU
+
 Changed the modifier to 2.0 ran with .25 as the input and received the following results:
 
 0.375                                                                                                                                                                                                                                                
